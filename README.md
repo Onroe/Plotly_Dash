@@ -3,6 +3,6 @@ Dash is Python framework for building web applications. It built on top of Flask
 
 This repository contains  projects done using dash
 
-![Screenshot](screen.png)
+![Screenshot](screen.PNG)
 
 
